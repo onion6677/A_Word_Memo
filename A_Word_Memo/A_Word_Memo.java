@@ -1,4 +1,3 @@
-```java
 import java.io.*;
 import java.util.*;
 public class A_Word_Memo {
@@ -116,4 +115,3 @@ public class A_Word_Memo {
         }
     }
 }
-```
